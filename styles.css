@@ -20,11 +20,9 @@ body{
     margin-bottom: 25px;
 }
 
-.logo {
-    display: flex;
-}
 
 .logo__image {
+    margin-top: 20px;
     margin-left: 100px;
     justify-content: center;
     align-content: center;
